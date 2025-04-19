@@ -1,3 +1,9 @@
+https://476114151850.signin.aws.amazon.com/console
+
+password : maheep12@
+
+
+
 # 🌦️ Weather App
 
 A responsive web-based weather application that provides real-time weather updates and a 5-day forecast using data from the OpenWeatherMap API. Built using React and hosted on AWS.
